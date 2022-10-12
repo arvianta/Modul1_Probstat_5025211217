@@ -43,7 +43,7 @@ hist(rgeom(n, p),
 ```
 ![1d](https://user-images.githubusercontent.com/88714570/195344706-eae03f98-3a20-4fcc-8be8-76aa75494c86.png)
 
-### E. Nilai Rataan (μ) dan Varian (σ²)
+### e. Nilai Rataan (μ) dan Varian (σ²)
 Rataan dan varian didapatkan dari rumus
 ```
 rataan = 1 / Peluang_Orang_Hadir
