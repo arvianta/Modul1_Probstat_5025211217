@@ -59,7 +59,8 @@ cat(paste("Nilai varian = ", varian))
 ```
 ![1e](https://user-images.githubusercontent.com/88714570/195344710-09f64c39-1226-4cce-b04a-d95ac6787e45.png)
 
-## 2. Terdapat 20 pasien menderita Covid-19 dengan peluang sembuh sebesar 0.2. Tentukan :
+## SOAL 2
+### Terdapat 20 pasien menderita Covid-19 dengan peluang sembuh sebesar 0.2. Tentukan :
 ### a. Peluang terdapat 4 pasien yang sembuh
 Penyelesaian dilakukan dengan menggunakan fungsi dbinom. dbinom menghasilkan probabilitas mendapatkan sejumlah keberhasilan (x) dalam sejumlah percobaan.
 ```R
@@ -96,7 +97,8 @@ cat(paste("Nilai Varian = ", varian))
 ```
 ![image](https://user-images.githubusercontent.com/88714570/195348833-2fe073ec-6634-4eac-b219-a01fdf90c4e1.png)
 
-## 3. Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari.
+## SOAL 3
+## Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari.
 ### a. Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
 ```R
 cat("a.")
@@ -137,7 +139,8 @@ cat(paste("Nilai Varian =", varian, "\n"))
 ```
 ![image](https://user-images.githubusercontent.com/88714570/195352632-e373b5d0-4ba3-43e2-aa78-a645c61b2a60.png)
 
-## 4. Diketahui nilai x = 2 dan v = 10. Tentukan
+## SOAL 4
+### Diketahui nilai x = 2 dan v = 10. Tentukan
 ### a. Fungsi Probabilitas dari Distribusi Chi-Square.
 ```R
 cat("a.")
@@ -174,7 +177,8 @@ cat(paste("Nilai Varian =", varian, "\n"))
 ```
 ![image](https://user-images.githubusercontent.com/88714570/195354027-af991630-b9a1-44b9-a840-677e06045a60.png)
 
-## 5. Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+## SOAL 5
+### Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
 ### a. Fungsi Probabilitas dari Distribusi Exponensial
 ```R
 cat("a.")
@@ -227,7 +231,8 @@ cat(paste("Nilai Varian =", varian, "\n"))
 ```
 ![image](https://user-images.githubusercontent.com/88714570/195356201-87adf5e5-38cd-4061-8d4e-e9627441f092.png)
 
-## 6. Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8
+## SOAL 6
+### Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8
 ### a. Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot data generate randomnya dalam bentuk grafik
 ```R
 cat("a.\n")
