@@ -210,7 +210,7 @@ z.score <- qnorm(peluang, mean, sd)
 
 cat(paste("Peluang =", peluang, "\n"))
 cat(paste("Z-Score =", z.score, "\n"))
-plot(rd)
+plot(rd, type = 'h', xlab = "x")
 
 # b. Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan: NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
 
