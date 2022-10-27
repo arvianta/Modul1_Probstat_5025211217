@@ -1,4 +1,4 @@
-# Modul1_Probstat_5025211217
+# Praktikum 1 Probabilitas dan Statistik
 
 **<br>Rayhan Arvianta Bayuputra**
 **<br>5025211217
